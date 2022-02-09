@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;    
+}
+.topp{
+    background-color: black;
+    height: 30px;
+}
+.toplink{
+    float: right;
+    margin: 5px;
+}
+.logoi{
+    height: 8rem;
+    float:left;
+}
+.name{
+    position: absolute;
+    margin: 40px 130px; 
+
+}
+.navb{
+    position: absolute;
+    margin-left: 62rem;
+    margin-top: 2rem;
+    padding-right: 0.2rem;
+
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.updiv{
+    height:10rem;
+}
+.col1{
+    height: 4rem;
+}
+.content{
+    height: 30rem;
+    background-color: aquamarine;
+}
+.col-6{
+    border: 1px solid;
+    height:8rem;
+}
+
